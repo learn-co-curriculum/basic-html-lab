@@ -22,6 +22,7 @@ Create a static website about the topic of your choice! In this directory, open 
 	+ At least two subheaders (`h2` - `h6`)
 	+ Two `p` elements containing paragraph text
 	+ One embedded image using the `img` element
-	+ At least one ordered and one unordered list, each containing at least three elements
+	+ At least one ordered list with at least three list elements
+	+ At least one unordered list with three elements, where each list elements is a link to a different website. 
 
-	
+
