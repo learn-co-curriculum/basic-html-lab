@@ -1,9 +1,5 @@
 # Basic HTML Lab
 
-## Outline
-
-In a file called `index.html`, use an `h1` tag, `p` tag, `img` tag, `ul`, `ol`, `li`, and `a` tags. 
-
 ## Overview
 
 We're going to get some practice writing HTML! Fork and clone this repository to get started. 
@@ -25,4 +21,5 @@ Create a static website about the topic of your choice! In this directory, open 
 	+ At least one ordered list with at least three list elements
 	+ At least one unordered list with three elements, where each list elements is a link to a different website. 
 
+<a href='https://learn.co/lessons/basic-html-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
 
