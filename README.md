@@ -21,5 +21,5 @@ Create a static website about the topic of your choice! In this directory, open 
 	+ At least one ordered list with at least three list elements
 	+ At least one unordered list with three elements, where each list elements is a link to a different website. 
 
-<a href='https://learn.co/lessons/basic-html-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/basic-html-lab' title='Basic HTML Lab'>Basic HTML Lab</a> on Learn.co and start learning to code for free.</p>
 
